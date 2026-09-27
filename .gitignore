@@ -1,0 +1,7 @@
+node_modules/
+dist/
+
+# The sheets the pictures are cut from and the design boards are kept out of
+# the repository.
+art/
+design/
