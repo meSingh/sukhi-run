@@ -67,7 +67,9 @@ npm run dev      # http://localhost:5181
 npm run build    # into dist/
 ```
 
-Plain TypeScript and Vite, no framework, no runtime dependencies.
+Plain TypeScript and Vite, no framework, no runtime dependencies. How it is
+put together, the numbers behind how it feels, and how to check a change are
+in [DEVELOPMENT.md](DEVELOPMENT.md).
 
 The pictures start as sheets, which are not in this repository.
 `scripts/cut-sheet.py` cuts a sheet on a plain background into separate
